@@ -1,0 +1,31 @@
+{
+    "address":{
+        "status":200,
+        "result":[
+            {
+                "ip_name": "dev_3011",
+                "ip_address": "30.0.11.0/24",
+                "progress": 50,
+                "color": "red",
+                "used":"10",
+                "brand":"20"
+              },
+              {
+                "ip_name": "dev_3011",
+                "ip_address": "30.0.11.0/24",
+                "progress": 70,
+                "color": "green",
+                "used":"10",
+                "brand":"20"
+              },
+              {
+                "ip_name": "dev_3011",
+                "ip_address": "30.0.11.0/24",
+                "progress": 50,
+                "color": "red",
+                "used":"10",
+                "brand":"20"
+              }
+        ]
+    }
+}

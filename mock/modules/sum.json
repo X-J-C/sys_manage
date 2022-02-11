@@ -1,0 +1,134 @@
+{
+  "goodsList": {
+    "status": 200,
+    "result": [
+      {
+        "title": "在线资产",
+        "num": 10,
+        "img": "on"
+      },
+      {
+        "title": "离线资产",
+        "num": 6,
+        "img": "off"
+      }
+    ]
+  },
+  "sumList": {
+    "status": 200,
+    "result": [
+      {
+        "img": "icon1",
+        "title": "资产总数",
+        "text": "45个"
+      },
+      {
+        "img": "icon2",
+        "title": "资产在线数",
+        "text": "45个"
+      },
+      {
+        "img": "icon3",
+        "title": "分析对象",
+        "text": "1个"
+      },
+      {
+        "img": "icon4",
+        "title": "网段总数",
+        "text": "45个"
+      },
+      {
+        "img": "icon5",
+        "title": "服务器/网管网段",
+        "text": "0个/0个"
+      },
+      {
+        "img": "icon6",
+        "title": "终端网段",
+        "text": "4个"
+      }
+    ]
+  },
+  "manage_table": {
+    "status": 200,
+    "result": [
+      {
+        "color": "green",
+        "ip_address": "10.8.8.88",
+        "mac_address": "2c16-dba0-03b7",
+        "operate_system": "",
+        "ip_type": "终端",
+        "time": "已在线：5天23时8分45秒",
+        "make":"华为"
+      },
+      {
+        "color": "green",
+        "ip_address": "10.8.8.88",
+        "mac_address": "2c16-dba0-03b7",
+        "operate_system": "",
+        "ip_type": "终端",
+        "time": "已在线：5天23时8分45秒",
+        "make":"惠普"
+      },
+      {
+        "color": "green",
+        "ip_address": "10.8.8.88",
+        "mac_address": "2c16-dba0-03b7",
+        "operate_system": "",
+        "ip_type": "终端",
+        "time": "已在线：5天23时8分45秒",
+        "make":"联想"
+      }
+    ]
+  },
+  "barlist":{
+    "status":200,
+    "result":[
+      { 
+        "value": 10,
+        "name": "摄像头" 
+      },
+      { 
+        "value": 10, 
+        "name": "网管" 
+      },
+      { 
+        "value": 20, 
+        "name": "服务器"
+      },
+      { 
+        "value": 48, 
+        "name": "终端" 
+      }
+    ]
+  },
+  "linelist":{
+    "status":200,
+    "result":[
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        3,
+        8,
+        4,
+        1,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ]
+  }
+}
